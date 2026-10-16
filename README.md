@@ -1,8 +1,3 @@
-
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # Freela Bot 🤖⚡
 
 > Bot de automação completo para raspagem de dados (Web Scraping), triagem por Inteligência Artificial (Google Gemini) e notificação em tempo real via Telegram de oportunidades de freela na plataforma 99Freelas.
